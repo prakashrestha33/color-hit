@@ -28,6 +28,52 @@
   color: #61dafb;
 }
 
+.btn-circle.btn-xl {
+  width: 80px;
+  height: 80px;
+  padding: 10px 16px;
+  border-radius: 45px;
+  font-size: 24px;
+  line-height: 1.33;
+  background-color: #4CAF50;
+}
+
+.btn-circle.btn-xl.green {
+  background-color: #4CAF50;
+}
+
+.btn-circle.btn-xl.red {
+  background-color: #f60505;
+}
+
+.btn-circle.btn-xl.yellow {
+  background-color: #f4ff58;
+}
+
+.btn-circle.btn-xl.blue {
+  background-color: #0579f6;
+}
+
+.btn-circle.btn-xl.orange
+{
+  background-color: #ef974c;
+}
+
+.btn-circle.btn-xl.voilet {
+  background-color: #bc52e2;
+}
+
+.btn-circle {
+  width: 30px;
+  margin: 10px 40px;
+  height: 30px;
+  padding: 6px 0px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.42857;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
