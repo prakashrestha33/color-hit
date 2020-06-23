@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/color-hit/static/css/main.fe378451.chunk.css",
+    "main.js": "/color-hit/static/js/main.9c95fc3f.chunk.js",
+    "main.js.map": "/color-hit/static/js/main.9c95fc3f.chunk.js.map",
+    "runtime-main.js": "/color-hit/static/js/runtime-main.81a0836c.js",
+    "runtime-main.js.map": "/color-hit/static/js/runtime-main.81a0836c.js.map",
+    "static/js/2.a7c3ac6b.chunk.js": "/color-hit/static/js/2.a7c3ac6b.chunk.js",
+    "static/js/2.a7c3ac6b.chunk.js.map": "/color-hit/static/js/2.a7c3ac6b.chunk.js.map",
+    "index.html": "/color-hit/index.html",
+    "precache-manifest.49e5457bf994eaedf1ffc2aae0c6b690.js": "/color-hit/precache-manifest.49e5457bf994eaedf1ffc2aae0c6b690.js",
+    "service-worker.js": "/color-hit/service-worker.js",
+    "static/css/main.fe378451.chunk.css.map": "/color-hit/static/css/main.fe378451.chunk.css.map",
+    "static/js/2.a7c3ac6b.chunk.js.LICENSE.txt": "/color-hit/static/js/2.a7c3ac6b.chunk.js.LICENSE.txt",
+    "static/media/rain.svg": "/color-hit/static/media/rain.3c70fa8f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81a0836c.js",
+    "static/js/2.a7c3ac6b.chunk.js",
+    "static/css/main.fe378451.chunk.css",
+    "static/js/main.9c95fc3f.chunk.js"
+  ]
+}
